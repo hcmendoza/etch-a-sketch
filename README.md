@@ -2,3 +2,5 @@
 JavaScript and jQuery Project
 
 Reminder Notes:
+Odin Project
+
